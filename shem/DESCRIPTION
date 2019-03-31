@@ -1,0 +1,10 @@
+Package: shem
+Type: Package
+Title: Functions for SHEM data
+Version: 0.1.0
+Author: Corentin Bui <corentin.bui@shem.engie.com>
+Maintainer: Corentin Bui <corentin.bui@shem.engie.com>
+Description: Ces fonctions servent a preparer et analyser les donnes de prod SHEM.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
